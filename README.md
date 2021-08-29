@@ -1,7 +1,7 @@
 # Lab 28: Django CRUD and Forms
 
 *Author*: Kassie Bradshaw
-[Link to my Pull Request](tbd)
+[Link to my Pull Request](https://github.com/kassiebradshaw/django-crud/pull/1)
 
 ## Overview
 
